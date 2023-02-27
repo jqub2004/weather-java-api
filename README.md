@@ -1,1 +1,1 @@
-# weather-java-api
+https://openweathermap.org/our-initiatives/student-initiative
